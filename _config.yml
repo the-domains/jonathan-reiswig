@@ -1,14 +1,14 @@
 layout_spectrum: 0.24790062196552753
-typography_spectrum: 0.8690915666520596
+typography_spectrum: 0.9600851670838892
 color:
-  brandStrength: 0.6195285108406097
-  lightness: 0.222464086022228
-  saturation: 0.0861248483415693
-  rhythmicContrast: 0.8157327745575458
+  brandStrength: 0.4928040155209601
+  lightness: 0.17314560594968498
+  saturation: 0.8764619550202042
+  rhythmicContrast: 0.4336446668021381
   brandColors:
-    - '#3E454C'
-    - '#2185C5'
-    - '#7ECEFD'
-    - '#FFF6E5'
-    - '#FF7F66'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: Jonathan Reiswig
